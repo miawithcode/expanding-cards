@@ -4,9 +4,9 @@
 
 ---
 
-[50projects50days](https://github.com/bradtraversy/50projects50days)第一天的练习：Expading Cards(拓展卡片)。
+[50projects50days](https://github.com/bradtraversy/50projects50dqays)第一天的练习：Expading Cards(拓展卡片)。
 
-Taylor Swift的[官网](https://tstheerastour.taylorswift.com/)正好有一个Expanding Cards的应用，所以仿照她的网站做了练习。
+发现Taylor Swift的[官网](https://tstheerastour.taylorswift.com/)正好有一个Expanding Cards的应用，所以仿照她的网站做了练习。
 
 在Expanding Cars的基础上练习了点击一张图片，Header的背景颜色也跟着改变。
 
