@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Caveat', cursive;
+}
+
+header{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 700ms ease;
+    background-color: #E0EDFD;
+}
+
+.container{
+    display: flex;
+    width: 100vw;
+}
+
+.panel{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    cursor: pointer;
+    transition: all 700ms ease;
+    flex: 1;
+}
+
+.panel.active{
+    flex: 5;
+}
+
+.panel.clr1{
+    background-color: #A9CBAA;
+}
+
+.panel.clr2{
+    background-color: #FDDAA6;
+}
+
+.panel.clr3{
+    background-color: #D6BADC;
+}
+
+.panel.clr4{
+    background-color: #72333C;
+}
+
+.panel.clr5{
+    background-color: #034A62;
+}
+
+.panel.clr6{
+    background-color: #2A2628;
+}
+
+.panel.clr7{
+    background-color: #FBB3D1;
+}
+
+.panel.clr8{
+    background-color: #D5D5D5;
+}
+
+.panel.clr9{
+    background-color: #E0C9AF;
+}
+
+.panel.clr10{
+    background-color: #E0EDFD;
+} 
+
+@media (max-width: 768px) {
+    body{
+        align-items: flex-start;
+    }
+    .panel{
+        height: 40vh;
+    }
+}
