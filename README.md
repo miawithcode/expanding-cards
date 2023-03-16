@@ -10,7 +10,6 @@ Taylor Swift的[官网](https://tstheerastour.taylorswift.com/)正好有一个Ex
 
 在Expanding Cars的基础上练习了点击一张图片，Header的背景颜色也跟着改变。
 
----
 ## What I Learned
 
 1. CSS: Flexbox的`flex`属性是一个简写属性，值分别是`flex-grow flex-shrink flex-basis`，设置了flex-items如何增大或缩小以适应其弹性容器中可用的空间。
@@ -56,7 +55,6 @@ Taylor Swift的[官网](https://tstheerastour.taylorswift.com/)正好有一个Ex
     } 
     ```
 
----
 ## Reference
 - [MDN - flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
 - [JavaScript Info - Styles and classes](https://javascript.info/styles-and-classes)
