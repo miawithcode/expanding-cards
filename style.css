@@ -87,7 +87,10 @@ header{
 
 @media (max-width: 768px) {
     body{
-        align-items: flex-start;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
     }
     .panel{
         height: 40vh;
