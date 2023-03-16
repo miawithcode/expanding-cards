@@ -1,6 +1,6 @@
 # Expanding Cards
-![](images/expading-cards.png)
-[Live Demo](https://mia-expading-cards.netlify.app/)
+![](images/expanding-cards.png)
+[Live Demo](https://mia-expanding-cards.netlify.app/)
 
 ---
 
